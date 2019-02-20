@@ -38,8 +38,8 @@ We work hard, but we also have fun with each other - celebrating birthdays, goin
 
 - [Data Science Engineer](Data Science Engineer.md)
 - [Infra Engineer](Infra Engineer.md)
-- [Software Engineer (Mobile)](Software Engineer (Mobile).md)
-- [Software Engineer (Web)](Software Engineer (Web).md)
+- [Software Engineer (Mobile)](Software Engineer-Mobile.md)
+- [Software Engineer (Web)](Software Engineer-Web.md)
 - [Software Engineer](Software Engineer.md)
-- [Internship](Internship/README.md)
+- [Internship](internship/README.md)
 
