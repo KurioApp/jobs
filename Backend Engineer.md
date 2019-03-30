@@ -1,17 +1,13 @@
 <img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
-# KURIO - Software Engineer
+# Backend Engineer
 
-Are you the engineer who wish things just work? Engineers in Kurio are constantly building services to better serve our users and improve our products. We mostly use Golang in our services, some Python, and NodeJS. When we build something, we want things to just work. We expect a low response time to our services. Also, as engineering-world evolves, we're constantly evolving too. Hence the need for fast-learners to be able to learn new technologies and share it among team members.
-
-
+Are you the engineer who wish things just work? Backend engineers in Kurio are constantly building services to better serve our users and improve our products. We mostly use Golang in our services, some Python, and NodeJS. When we build something, we want things to just work. We expect a low response time to our services. Also, as engineering-world evolves, we're constantly evolving too. Hence the need for fast-learners to be able to learn new technologies and share it among team members.
 
 ## What you will do
 
 - Build and maintain production-level services
 - Test-Driven Development
-
-
 
 ## Qualifications
 
@@ -21,8 +17,6 @@ Are you the engineer who wish things just work? Engineers in Kurio are constantl
 - Understand and able to build a RESTful API
 - Work with MySQL, MongoDB (DynamoDB, Spanner, etc. is a plus)
 - Familiar with Git
-
-
 
 ## Preferred qualifications
 

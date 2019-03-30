@@ -1,16 +1,12 @@
 <img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
-# KURIO - Software Engineer (Mobile)
+# Mobile Engineer
 
 At Kurio, we always love to build our app enthusiastically, with next-generation technologies that help millions of people in Indonesia to be smarter and productive. We strive to enable users to access informations faster without abandoning the beautiful clean UI, clean design, and responsiveness. We're looking for engineers who bring fresh ideas to collaborate with our passionate mobile developers.
-
-
 
 ## What you will do
 
 Build and maintain production-ready mobile app.
-
-
 
 ## Qualifications
 
@@ -21,8 +17,6 @@ Build and maintain production-ready mobile app.
 - Familiar with Git
 - Knowledge in Android/iOS development cycle or have previously release an Android/iOS app
 - Knowledge in Material Design guidelines is a plus
-
-
 
 ## Preferred qualifications
 
