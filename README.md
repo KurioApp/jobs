@@ -28,8 +28,6 @@ Practice deliberate thinking to make things from Good to Great.
 
 If you want to go fast, go alone. If you want to go far, go together.
 
-
-
 As it goes on the principle "**Collaboration**", we believe in working collaboratively as a team.
 
 We work hard, but we also have fun with each other - celebrating birthdays, going out for lunch, and just having fun in general!
@@ -37,9 +35,9 @@ We work hard, but we also have fun with each other - celebrating birthdays, goin
 ## Openings
 
 - [Data Science Engineer](Data Science Engineer.md)
-- [Infra Engineer](Infra Engineer.md)
-- [Software Engineer (Mobile)](Software Engineer-Mobile.md)
-- [Software Engineer (Web)](Software Engineer-Web.md)
-- [Software Engineer](Software Engineer.md)
+- [Mobile Engineer](Mobile Engineer.md)
+- [Frontend Engineer](Frontend Engineer.md)
+- [Backend Engineer](Backend Engineer.md)
+- [Site Reliability Engineer](Site Reliability Engineer.md)
 - [Internship](internship/README.md)
 

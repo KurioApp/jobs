@@ -1,6 +1,6 @@
 <img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
-# KURIO - Data Science Engineer
+# Data Science Engineer
 
 Are you the one who's interested in building a better product by using data? Kurio makes decision by looking at the data, hence we value data. As data science engineer, you will get to work on some engineering-related tasks like building API in a TDD fashion, and some data science-related tasks like classifications, clustering, etc. There are 2 kinds of code that we write: scripting code and production-level code. For scripting, we just want the script to get the job done. For production-level code, we need it to be production-ready, meaning no slow-performing codes are allowed.
 
