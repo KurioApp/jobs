@@ -34,10 +34,9 @@ We work hard, but we also have fun with each other - celebrating birthdays, goin
 
 ## Openings
 
-- [Data Science Engineer](Data Science Engineer.md)
-- [Mobile Engineer](Mobile Engineer.md)
-- [Frontend Engineer](Frontend Engineer.md)
 - [Backend Engineer](Backend Engineer.md)
+- [Data Science Engineer](Data Science Engineer.md)
+- [Frontend Engineer](Frontend Engineer.md)
+- [Mobile Engineer](Mobile Engineer.md)
 - [Site Reliability Engineer](Site Reliability Engineer.md)
 - [Internship](internship/README.md)
-
