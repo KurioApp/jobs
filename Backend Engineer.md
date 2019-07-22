@@ -2,26 +2,43 @@
 
 # Backend Engineer
 
-Are you the engineer who wish things just work? Backend engineers in Kurio are constantly building services to better serve our users and improve our products. We mostly use Golang in our services, some Python, and NodeJS. When we build something, we want things to just work. We expect a low response time to our services. Also, as engineering-world evolves, we're constantly evolving too. Hence the need for fast-learners to be able to learn new technologies and share it among team members.
+Kurio is a content aggregator. We're partnering with hundreds of publisher. As a backend engineer, you will be working with services that serves our users. We love for things to just work. We care about best practices. We appreciate people that keeps learning and share.
+
+## The Backend Role
+
+You will build and maintain production-level services. We mostly use **Golang**. We expect a good coding standard that results in good working software. As the engineering world evolves, we're constantly evolving too. Hence the need for fast-learners, to learn new technologies and share them among team members.
+
+## What it's like working at Kurio
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+- All engineers have access to all of our repositories
 
 ## What you will do
 
 - Build and maintain production-level services
-- Test-Driven Development
+  - APIs, along with its documentation
+  - Pub/Sub
+  - Deployment to staging and production environment
+- Test-Driven Development: write unit and integration tests
+- Scrum
+  - Sprint planning
+  - Daily standup
+  - Retrospective
 
 ## Qualifications
 
 - Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
-- Deep knowledge on computer science (things like data structure, OOP)
-- At least 1 programming language: Golang, Python, NodeJS (both code and tests)
+- Strong knowledge on computer science
+- Golang
 - Understand and able to build a RESTful API
-- Work with MySQL, MongoDB (DynamoDB, Spanner, etc. is a plus)
-- Familiar with Git
+- Able to work with SQL and NoSQL like MySQL and MongoDB (DynamoDB, Spanner, etc. is a plus)
+- Familiar with Git and its workflow
 
 ## Preferred qualifications
 
-- Knowledge in TDD
-- Deep knowledge on at least 2 programming language: Golang, Python, NodeJS (both code and tests)
+- Experienced in Test-Driven Development
+- Deep knowledge on at least 1 programming language (i.e. Golang, Python)
 - Experienced on software architecture
 - Experienced on building highly scalable systems
-- Knows dev-ops related stuff
+- Knowledge on dev-ops practices
