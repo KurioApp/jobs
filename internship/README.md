@@ -6,5 +6,4 @@ In Kurio, we expect internship for at least 6 months period.
 - [Infra Engineer](Infra%20Engineer.md)
 - [Mobile Engineer (Android)](Mobile%20Engineer-Android.md)
 - [Software Engineer](Software%20Engineer.md)
-- [Software Engineer (Data)](Software%20Engineer-Data.md)
-
+- [Data Science Engineer](Data%20Science%20Engineer.md)
