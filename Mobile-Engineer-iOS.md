@@ -26,20 +26,19 @@ Build and maintain production-ready mobile app. By production-ready, we mean wel
 
 - Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
 - Able to build iOS app using Swift
-- Knowledge in VIPER architecture
-- Have used Cocoapods before
-- Understand basic concept of REST API
-- Understand basic SQL database
+- Familiar with REST API
+- Familiar with SQL
+- Familiar with Delegation Pattern
 - Familiar with Git and its workflow
 - Knowledge in iOS development cycle or have previously release an iOS app
-- Basic knowledge of Delegation Pattern
 
 ## Preferred qualifications
 
 - Knowledge in Human Interface Guidelines
-- Test-Driven Development (TDD)
 - Protocol Oriented Programming
+- Knowledge in VIPER architecture
+- Test-Driven Development (TDD)
 - Knowledge in one of the following:
   - Unit testing
   - Automated UI testing
-- Knowledge in NoSQL database
+- Familiar with NoSQL database

@@ -26,15 +26,17 @@ Build and maintain production-ready mobile app. By production-ready, we mean wel
 
 - Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
 - Able to build Android app using Kotlin
-- Understand basic concept of REST API
-- Understand basic SQL database
+- Familiar with REST API
+- Familiar with SQL
+- Familiar with Repository pattern
 - Familiar with Git and its workflow
 - Knowledge in Android development cycle or have previously release an Android app
 
 ## Preferred qualifications
 
-- Knowledge in clean architecture (MVP) and repository pattern
 - Knowledge in Material Design guidelines is a plus
+- Knowledge in MVP architecture
+- Test-Driven Development (TDD)
 - Knowledge in one of the following:
   - Unit testing
   - Automated UI testing
