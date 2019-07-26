@@ -1,6 +1,6 @@
 <img src="../logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
-# Internship - Software Engineer (Data)
+# Internship - Data Science Engineer
 
 Are you the one who's interested in building a better product by using data? Kurio makes
 decision by looking at the data, hence we value data. As data science engineer, you will get to
