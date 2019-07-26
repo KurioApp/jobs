@@ -38,6 +38,7 @@ You will build and maintain production-level services. We mostly use **Golang**.
 ## Preferred qualifications
 
 - Experienced in Test-Driven Development
+- Familiar with NodeJS
 - Deep knowledge on at least 1 programming language (i.e. Golang, Python)
 - Experienced on software architecture
 - Experienced on building highly scalable systems
