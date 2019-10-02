@@ -24,7 +24,7 @@
 - Familiar with Git workflow and its principles
 - Familiar with Agile and Scrum
 
-### Preferred Qualifications
+## Preferred Qualifications
 
 - Understanding in reactive programming (RxDart) with BLoC pattern
 - Have performed either Unit test or Integration Test
