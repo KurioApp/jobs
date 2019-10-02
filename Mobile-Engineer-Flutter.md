@@ -1,7 +1,11 @@
 <img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
 # Mobile Engineer - Flutter
-<!-- please add some nice and cool intro here -->
+At Kurio, we always love to build our app enthusiastically with next-generation technologies. We strive to enable users to access informations faster without abandoning the beautiful clean UI, clean design, and responsiveness. We're looking for engineers who bring fresh ideas to collaborate with our passionate mobile developers.
+
+## The Role
+
+You will build and maintain our cross-platform app written using Flutter. We expect a good coding standard that results in a good working and maintainable app. As the technology keep evolving, there are always things to learn. We expect each engineers to be able to follow what happens in mobile development ecosystem and share them among team members.
 
 ## What you will do
 
