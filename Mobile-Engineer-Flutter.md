@@ -26,7 +26,7 @@
 
 ## Preferred Qualifications
 
-- Understanding in reactive programming (RxDart) with BLoC pattern
+- Understands reactive programming (RxDart) with BLoC pattern
 - Have performed either Unit or Integration Test
 - Deployed a Flutter application to the Play Store and App Store
 - Knowledge of CI/CD
