@@ -1,6 +1,6 @@
 <img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
 
-# Flutter Engineer
+# Mobile Engineer - Flutter
 <!-- please add some nice and cool intro here -->
 
 ## What you will do
