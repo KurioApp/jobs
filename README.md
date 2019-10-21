@@ -35,6 +35,7 @@ We work hard, but we also have fun with each other - celebrating birthdays, goin
 ## Openings
 
 - [Backend Engineer](Backend-Engineer.md)
+- [Data Analyst](Data-Analyst.md)
 - [Data Science Engineer](Data-Science-Engineer.md)
 - [Frontend Engineer](Frontend-Engineer.md)
 - [Mobile Engineer - Android](Mobile-Engineer-Android.md)
