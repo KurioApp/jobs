@@ -22,7 +22,6 @@ Since our internal data lake uses BigQuery, it's vital to know basic SQL like th
 
 - We value people that keeps learning
 - We appreciate the extra miles given
-- All engineers have access to all of our repositories
 
 ## What you will do
 
@@ -38,8 +37,10 @@ Since our internal data lake uses BigQuery, it's vital to know basic SQL like th
 - SQL
 - Python or R
 - Data Visualization
+- Analytics & Reporting
 
 ## Preferred qualifications
 
+- Statistical knowledge
 - Knowledge in the industry
 - Have a foundation on machine-learning concepts and algorithms
