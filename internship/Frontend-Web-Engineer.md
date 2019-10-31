@@ -4,13 +4,9 @@
 
 Are you the engineer who just loves building stuffs? In Kurio we are constantly building awesome products for our internal or end users. As a Frontend web engineer, HTML, CSS and Javascript are our bread and butter. But we also strive to be up-to-date with state-of-the-art web technologies, along with clean written codes paired with best practices. Beautiful is the goal we set to aim.
 
-
-
 ## What you will do
 
 Build and maintain production-level websites
-
-
 
 ## Qualifications
 
@@ -20,8 +16,6 @@ Build and maintain production-level websites
 - Familiar with Git
 - Knowledge in Web frontend framework / library (React / Angular / Vue etc.) is a big plus
 - Knowledge in UI / UX design is a big plus
-
-
 
 ## Preferred qualifications
 
