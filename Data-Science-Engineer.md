@@ -1,4 +1,4 @@
-<img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
 # Data Science Engineer
 
@@ -34,7 +34,7 @@ We write 2 kinds of code:
 
    No slow-performing codes are allowed. Fully comply with [PEP8](https://www.python.org/dev/peps/pep-0008/).
 
-## What it's like working at Kurio
+## What it's like working at PT Kurio
 
 - We value people that keeps learning
 - We appreciate the extra miles given

@@ -1,44 +1,52 @@
-# Kurio - Jobs
+# PT Kurio - Jobs
 
-Kurio is a content aggregator that uses machine learning to provide a new way to discover, explore, and consume contents from all over the world.
+PT Kurio has 2 business units:
+
+- **Kurio** is a one-stop solution for user to explore, discover, and consume about various content from multi-publishers in the market.
+- **Endeus** is a digital platform for cooking, recipe, and food through "bite-sized" video-first content for the mobile generation with ease of use and design-oriented cooking platform.
+
+## What it's like working at PT Kurio
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+- We're open to hear your ideas
+- All engineers have read access to all of our repositories
 
 ## Kurio Values
 
-### What's it like working at Kurio?
+We have several working values in our team. If you join our team, you can definitely master the way of thinking.
 
-We have several working values in our team. If you join our team, you can definitely master the way of thinking. 
+### Get shit done
 
-#### Get shit done
+Don't delay what you can finish today. Move fast, build fast and learn faster. We take pride in daily accomplishment and getting things done. Everyday counts.
 
-Don't delay what you can finish today. Move fast, build fast and learn faster.
+### Be Bold
 
-#### Be Bold
+Think out loud, speak up, initiate action, take charge. Be bold in your idea, be bold in your action.
 
-Think out loud, speak up, initiative action, take charge. Be bold in your idea.
+### Stay Curious
 
-#### Stay Curious
+Continuous learning, always seeking to expand your skill and knowledge. Identify problem, focus on making impact by solving the problem. IDEAL (Identify, Define Solution, Explore, Action, Look Back).
 
-Continuous learning, always seeking to expand your skill and knowledge.
+### Excellence
 
-#### Excellence
+Practice deliberate thinking to make things from Good to Great. Never settle, always focus to incremental improvement.
 
-Practice deliberate thinking to make things from Good to Great.
+### Collaboration
 
-#### Collaboration
-
-If you want to go fast, go alone. If you want to go far, go together.
-
-As it goes on the principle "**Collaboration**", we believe in working collaboratively as a team.
-
-We work hard, but we also have fun with each other - celebrating birthdays, going out for lunch, and just having fun in general!
+Be a great team player! Help others, make an impact to others. Don't judge, have an open mind. Have fun. If you want to go fast, go alone. If you want to go far, go together.
 
 ## Openings
 
-- [Backend Engineer](Backend-Engineer.md)
-- [Data Analyst](Data-Analyst.md)
-- [Data Science Engineer](Data-Science-Engineer.md)
-- [Frontend Engineer](Frontend-Engineer.md)
-- [Mobile Engineer - Android](Mobile-Engineer-Android.md)
-- [Mobile Engineer - iOS](Mobile-Engineer-iOS.md)
-- [Site Reliability Engineer](Site-Reliability-Engineer.md)
+- Mobile
+  - [Mobile Engineer - Flutter](Mobile-Engineer-Flutter.md)
+  - [Senior Engineer - Flutter](Senior-Mobile-Engineer-Flutter.md)
+  - [Senior Mobile Engineer - iOS](Senior-Mobile-Engineer-iOS.md)
+- Backend
+  - [Backend Engineer](Backend-Engineer.md)
+  - [Senior Backend Engineer](Senior-Backend-Engineer)
+- Product, Design and Data
+  - [Data Analyst](Data-Analyst.md)
+  - [Data Science Engineer](Data-Science-Engineer.md)
+  - [UI/UX Designer](UI-UX-Designer)
 - [Internship](internship/README.md)

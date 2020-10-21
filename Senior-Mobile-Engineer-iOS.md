@@ -1,4 +1,4 @@
-<img src="/Users/aongko/workspace/KurioApp/jobs/logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
 # Senior Mobile Engineer - iOS
 
@@ -8,7 +8,7 @@ At Kurio, we always love to build our app enthusiastically, with next-generation
 
 You will build and maintain our iOS app. We use Swift + Cocoapods, and we expect a good coding standard that results in a good working and maintainable app. As the ecosystem keeps getting better, there are always things to learn. We expect each engineers to be able to follow what happens in iOS ecosystem and share them among team members.
 
-## What it's like working at Kurio
+## What it's like working at PT Kurio
 
 - We value people that keeps learning
 - We appreciate the extra miles given
@@ -32,7 +32,7 @@ Build and maintain production-ready mobile app. By production-ready, we mean wel
 - Deep understanding of Views, Animation
 - Memory management
 - Protocol Oriented Programming
-- Familiar with Git and its workflow
+- Familiar with Git workflow and its principles
 - Knowledge in iOS development cycle or have previously release an iOS app
 
 ## Preferred qualifications
