@@ -21,9 +21,10 @@ You will build and maintain production-level services. We mostly use **Golang**.
   - Pub/Sub
   - Deployment to staging and production environment
 - Test-Driven Development: write unit and integration tests
-- Scrum
+- Scrum routines
   - Sprint planning
   - Daily standup
+  - Sprint Review
   - Retrospective
 
 ## Qualifications
