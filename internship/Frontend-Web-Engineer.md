@@ -6,7 +6,8 @@ Are you the engineer who just loves building stuffs? In Kurio we are constantly 
 
 ## What you will do
 
-Build and maintain production-level websites
+- Build and maintain production-level websites
+- UI Testing
 
 ## Qualifications
 
@@ -14,11 +15,11 @@ Build and maintain production-level websites
 - Able to build a website with HTML, CSS and Javascript
 - Understand the very basic concept of REST API
 - Familiar with Git
-- Knowledge in Web frontend framework / library (React / Angular / Vue etc.) is a big plus
-- Knowledge in UI / UX design is a big plus
 
 ## Preferred qualifications
 
+- Knowledge in Web frontend framework / library (React / Angular / Vue etc.)
+- Knowledge in UI / UX design is a big plus
 - Experienced on building a server-side renderred website
 - Knowledge in Search Engine Optimization (SEO)
 - Strong knowledge in Javascript (and its concept of OOP)
