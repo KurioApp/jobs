@@ -1,6 +1,7 @@
 <img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
 # Flutter Engineer
+
 At Kurio, we always love to build our app enthusiastically with next-generation technologies that help millions of people in Indonesia to be smarter and productive. We strive to enable users to access informations faster without abandoning the beautiful clean UI, clean design, and responsiveness. We're looking for engineers who bring fresh ideas to collaborate with our passionate mobile developers.
 
 ## The Role
