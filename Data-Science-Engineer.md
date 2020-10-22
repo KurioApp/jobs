@@ -66,7 +66,7 @@ We write 2 kinds of code:
 - Python
 - Able to scrape website for gathering training data (and cleaning)
 - Familiar with one or more databases (SQL and/or NoSQL, i.e. MySQL and/or MongoDB)
-- Familiar with Git and its workflow
+- Familiar with Git workflow and its principles
 
 ## Preferred qualifications
 
