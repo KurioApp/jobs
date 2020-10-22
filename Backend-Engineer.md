@@ -39,7 +39,7 @@ You will build and maintain production-level services. We mostly use **Golang**.
 ## Preferred qualifications
 
 - Test-Driven Development (TDD)
-- Familiar with at least one general-purpose language (i.e. Python, Javascript)
+- Familiar with at least one general-purpose language (i.e. Python, Node.js)
 - Deep knowledge on at least 1 programming language (i.e. Golang, Python)
 - Experienced on software architecture
 - Experienced on building highly scalable systems
