@@ -1,6 +1,6 @@
 # PT Kurio - Jobs
 
-PT Kurio has 2 business units:
+PT Kurio has 2 major business units:
 
 - **Kurio** is a one-stop solution for user to explore, discover, and consume about various content from multi-publishers in the market.
 - **Endeus** is a digital platform for cooking, recipe, and food through "bite-sized" video-first content for the mobile generation with ease of use and design-oriented cooking platform.
