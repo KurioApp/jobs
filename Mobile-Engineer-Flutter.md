@@ -36,4 +36,5 @@ You will build and maintain our cross-platform app written using Flutter. We exp
 - Good understanding of reactive programming (i.e. RxDart with BLoC pattern)
 - Have performed either Unit or Integration Test
 - Deployed a Flutter application to the Play Store and App Store
+- Knowledge of CI/CD
 - Create custom animations
