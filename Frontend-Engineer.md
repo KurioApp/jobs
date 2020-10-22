@@ -1,6 +1,6 @@
-<img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
-# Frontend Engineer
+# Frontend (Web) Engineer
 
 Are you the engineer who just loves building stuffs? In Kurio we are constantly building awesome products for our internal and/or end users. As a Frontend engineer HTML, CSS and JavaScript are our bread and butter. But we also strive to be up-to-date with state-of-the-art web technologies, along with clean written codes paired with best practices. Beautiful is the goal we set to aim.
 
@@ -16,7 +16,7 @@ Are you the engineer who just loves building stuffs? In Kurio we are constantly 
 - Able to produce high quality, hand-written CSS styles. Experience in SCSS is a plus
 - Have experience in building website with JavaScript framework. We use React, but users of other frameworks (Angular, Vue, or even Meteor) are also welcomed
 - Understand the very basic concept of RESTful API
-- Familiar with Git
+- Familiar with Git workflow and its principles
 - Knowledge in UI/UX design is a big plus
 
 ## Preferred qualifications

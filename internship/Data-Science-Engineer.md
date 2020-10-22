@@ -1,12 +1,40 @@
-<img src="../logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="../logo-pt-kurio.png" alt="Logo" style="width: 100px;"/>
 
 # Internship - Data Science Engineer
 
-Are you the one who's interested in building a better product by using data? Kurio makes decision by looking at the data, hence we value data. As data science engineer intern, you will get to work on some engineering-related tasks like building API for serving Machine Learning model in production, and some data science-related tasks like classifications, clustering, etc.
+Interested in building a better product by using data? Whatever we do, whether it's decision making, or dealing with machine learning problems, we need data.
 
-There are 2 kinds of code that we write: **scripting** code and **production-ready** code.
-For scripting, we just want the script to get the job done. This could be data exploration, training machine learning models, etc.
-For production-level code, we need it to be production-ready, meaning no slow-performing codes are allowed.
+In Kurio, we're partnering with hundreds of publishers. We collect bunch of data from our mobile application. These make us a fun place for doing data science projects, whether it's a simple classification problem, or complex recommender system.
+
+In this team, you will get to work on both engineering-related tasks and data science-related tasks.
+
+The **data-science-related tasks** might include:
+
+- Maintain, and if possible, improve existing models (retrain) used in production environment
+- Opportunities for researching state-of-the-art machine learning models (i.e. [Named-Entity-Recognition](https://www.sciencedirect.com/science/article/pii/S1877050918314832))
+- Working with data analysis projects along with our data analysts
+
+The **engineering-related tasks** are **developing services** that use the model in the **production** environment. Some examples of engineering-related tasks include:
+
+- Building simple APIs that utilize machine learning model.
+- Build services that further enhance the newsfeed algorithm (i.e. deduplication, personalization).
+- Some ETL jobs
+
+We write 2 kinds of code:
+
+1. **Scripting code**
+
+   A script to get the job done. Just remember that eventually, somebody else will take a look at your code, and that someone could be your future self. Try to be mindful and write a readable code.
+
+2. **Production-level code**
+
+   No slow-performing codes are allowed. Fully comply with [PEP8](https://www.python.org/dev/peps/pep-0008/).
+
+## What it's like working at PT Kurio
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+- All engineers have access to all of our repositories
 
 ## What you will do
 
@@ -17,7 +45,7 @@ For production-level code, we need it to be production-ready, meaning no slow-pe
 ## Qualifications
 
 - Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
-- Knowledge in computer science is a must (things like data structure, OOP)
+- Basic knowledge in computer-science is a must (things like data structure, OOP)
 - Have strong passion on Machine Learning, both theory and implementation
 - Have a foundation on machine learning concepts and algorithms (text-related is preferred)
 - Constantly learning, exploring, and implementing new technologies

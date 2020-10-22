@@ -1,4 +1,4 @@
-<img src="logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
 # Data Analyst
 
@@ -18,7 +18,7 @@ For data analysis projects, we need at least scripting language (like R or Pytho
 
 Since our internal data lake uses BigQuery, it's vital to know basic SQL like the back of your hand.
 
-## What it's like working at Kurio
+## What it's like working at PT Kurio
 
 - We value people that keeps learning
 - We appreciate the extra miles given

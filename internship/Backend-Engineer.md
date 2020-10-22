@@ -1,13 +1,22 @@
-<img src="../logo_kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="../logo-pt-kurio.png" alt="Logo" style="width: 100px;"/>
 
 # Internship - Backend Engineer
 
-Are you the engineer who wish things just work? Engineers in Kurio are constantly building services to better serve our users and improve our products. When we build something, we want things to just work. We expect a low response time to our services. Also, as engineering-world evolves, we're constantly evolving too. Hence the need for fast-learners to be able to learn new technologies and share it among team members.
+Kurio is a content aggregator. We're partnering with hundreds of publisher. As a backend engineer, you will be working with services that serves our users. We love for things to just work. We care about best practices. We appreciate people that keeps learning and share.
+
+We mostly use **Golang**. We expect a good coding standard that results in good working software. As the engineering world evolves, we're constantly evolving too. Hence the need for fast-learners, to learn new technologies and share them among team members.
+
+## What it's like working at PT Kurio
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+- All engineers have access to all of our repositories
 
 ## What you will do
 
-- Build and maintain production-ready services
+- Build and maintain backend services
 - Test-Driven Development
+- Scrum routines
 
 ## Qualifications
 
