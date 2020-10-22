@@ -1,0 +1,34 @@
+<img src="../logo_kurio.png" alt="Logo" style="width: 100px;"/>
+
+# Internship - Flutter Engineer
+
+At Kurio, we always love to build our app enthusiastically with next-generation technologies that help millions of people in Indonesia to be smarter and productive. We strive to enable users to access informations faster without abandoning the beautiful clean UI, clean design, and responsiveness. We're looking for engineers who bring fresh ideas to collaborate with our passionate mobile developers.
+
+You will build and maintain our cross-platform app written using Flutter. We expect a good coding standard that results in a good working and maintainable app. As the technology keep evolving, there are always things to learn. We expect each engineers to be able to follow what happens in mobile development ecosystem and share them among team members.
+
+## What it's like working at PT Kurio
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+- All engineers have access to all of our repositories
+
+## What you will do
+
+- Build and maintain Flutter app(s)
+- Scrum routines
+
+## Qualifications
+
+- Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
+- Able to build a simple Flutter app
+- Knowledge in Flutter's life cycle
+- Understand the very basic concept of REST API
+- Familiar with Git
+
+## Preferred qualifications
+
+- Knowledge in Software Architecture such as MVP or MVVM
+- Good understanding of at least one of either Android or iOS development
+- Good understanding of reactive programming (i.e. RxDart with BLoC pattern)
+- Have performed either Unit or Integration Test
+- Deployed a Flutter application to the Play Store and App Store
