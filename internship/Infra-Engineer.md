@@ -1,4 +1,4 @@
-<img src="../logo-pt-kurio.png" alt="Logo" style="width: 100px;"/>
+<img src="../logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
 
 # Internship - Infra Engineer
 
