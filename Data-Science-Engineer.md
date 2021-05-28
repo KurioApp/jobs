@@ -8,14 +8,14 @@ In Kurio, we're partnering with hundreds of publishers. We collect bunch of data
 
 Oh, and mostly, we use Python.
 
-## The Data Science Team
+## The Business Intelligence Team
 
 In this team, you will get to work on both engineering-related tasks and data science-related tasks.
 
 The **data-science-related tasks** might include:
 
 - Maintain, and if possible, improve existing models (retrain) used in production environment
-- Opportunities for researching state-of-the-art machine learning models (i.e. [Named-Entity-Recognition](https://www.sciencedirect.com/science/article/pii/S1877050918314832))
+- Opportunities for researching state-of-the-art machine learning models
 - Working with data analysis projects along with our data analysts
 
 The **engineering-related tasks** are **developing services** that use the model in the **production** environment. Some examples of engineering-related tasks include:
@@ -43,7 +43,7 @@ We write 2 kinds of code:
 ## What it's like working with this team
 
 - Building machine learning models used in production environment
-- Opportunities for researching state-of-the-art models (i.e. named-entity-recognition)
+- Opportunities for researching state-of-the-art models
 - Maintain, and if possible, improve existing models (retrain)
 - Scripting
   - web scraping, for gathering data
