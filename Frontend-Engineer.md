@@ -1,8 +1,6 @@
-<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
-
 # Frontend (Web) Engineer
 
-Are you the engineer who just loves building stuffs? In Kurio we are constantly building awesome products for our internal and/or end users. As a Frontend engineer HTML, CSS and JavaScript are our bread and butter. But we also strive to be up-to-date with state-of-the-art web technologies, along with clean written codes paired with best practices. Beautiful is the goal we set to aim.
+At PT Darta Media Indonesia, we handle the product development of Kaskus and Endeus. As a Frontend engineer HTML, CSS and JavaScript are our bread and butter. But we also strive to be up-to-date with state-of-the-art web technologies, along with clean written codes paired with best practices. Beautiful is the goal we set to aim.
 
 ## What you will do
 
@@ -11,7 +9,6 @@ Are you the engineer who just loves building stuffs? In Kurio we are constantly 
 
 ## Qualifications
 
-- Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
 - Have deep understanding on HTML and it's semantic use
 - Able to produce high quality, hand-written CSS styles. Experience in SCSS is a plus
 - Have experience in building website with JavaScript framework. We use React, but users of other frameworks (Angular, Vue, or even Meteor) are also welcomed

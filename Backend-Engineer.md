@@ -1,18 +1,15 @@
-<img src="logo-pt-kurio.png" alt="Logo" style="width: 200px;"/>
-
 # Backend Engineer
 
-Kurio is a content aggregator. We're partnering with hundreds of publisher. As a backend engineer, you will be working with services that serves our users. We love for things to just work. We care about best practices. We appreciate people that keeps learning and share.
+PT Darta Media Indonesia handles the product development of Kaskus and Endeus. As a backend engineer, you will be working with services that serves our users. We love for things to just work. We care about best practices. We appreciate people that keeps learning and share.
 
 ## The Backend Role
 
-You will build and maintain production-level services. We mostly use **Golang**. We expect a good coding standard that results in good working software. As the engineering world evolves, we're constantly evolving too. Hence the need for fast-learners, to learn new technologies and share them among team members.
+You will build and maintain production-level services. We mostly use **Golang** in our microservices. We expect a good coding standard that results in good working software. As the engineering world evolves, we're constantly evolving too. Hence the need for fast-learners, to learn new technologies and share them among team members.
 
-## What it's like working at PT Kurio
+## What it's like working at PT DMI
 
 - We value people that keeps learning
 - We appreciate the extra miles given
-- All engineers have access to all of our repositories
 
 ## What you will do
 
@@ -29,7 +26,6 @@ You will build and maintain production-level services. We mostly use **Golang**.
 
 ## Qualifications
 
-- Kurio's values (Get sh*t done, Be Bold, Stay Curious, Excellence, Collaboration)
 - Deep knowledge on computer science (things like data structure, OOP)
 - Golang
 - Understand and able to build a RESTful API
