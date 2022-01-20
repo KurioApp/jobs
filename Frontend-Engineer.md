@@ -2,10 +2,24 @@
 
 At PT Darta Media Indonesia, we handle the product development of Kaskus and Endeus. As a Frontend engineer HTML, CSS and JavaScript are our bread and butter. But we also strive to be up-to-date with state-of-the-art web technologies, along with clean written codes paired with best practices. Beautiful is the goal we set to aim.
 
+## The Frontend Role
+
+You will build and maintain production-level websites. Mostly working with HTML, CSS, Typescript, with React. We expect a good coding standard that results in good working software, in this case, websites. As the engineering world evolves, technology also evolves, and so do us. Hence the need for fast-learners, to learn new technologies and share them among team members.
+
+## What it's like working at PT DMI
+
+- We value people that keeps learning
+- We appreciate the extra miles given
+
 ## What you will do
 
 - Build and maintain production-level websites
 - UI Testing
+- Scrum routines
+  - Sprint planning
+  - Daily standup
+  - Sprint Review
+  - Retrospective
 
 ## Qualifications
 
